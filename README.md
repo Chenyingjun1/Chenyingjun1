@@ -11,7 +11,7 @@
   <div>&nbsp;</div>
 
 
-# I'm fang <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
+# I'm chen <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50">
 🤺 About Me
 
 <img align="right" width="88" src="https://cdn.jsdelivr.net/gh/sun0225SUN/sun0225SUN/assets/images/jobs.png" />
